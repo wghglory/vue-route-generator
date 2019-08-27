@@ -1,0 +1,20 @@
+{
+  "name": "vue-route-generator-cli",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wghglory/vue-route-generator"
+  },
+  "scripts": {},
+  "bin": {
+    "dvr": "./bin/dvr"
+  },
+  "author": "Guanghui Wang",
+  "license": "MIT",
+  "dependencies": {
+    "download-git-repo": "^2.0.0",
+    "handlebars": "^4.1.2",
+    "ora": "^3.4.0"
+  }
+}
